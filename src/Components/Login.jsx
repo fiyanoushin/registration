@@ -5,7 +5,7 @@ function Login(){
     const nav=useNavigate()
 
     const handlingButton=()=>{
-        nav("/")
+        nav("/home")
     }
 
     return(
